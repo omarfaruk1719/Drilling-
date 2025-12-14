@@ -1,0 +1,26 @@
+#include <stdio.h>
+#include <string.h>
+
+int main() {
+ char product[50];
+ int price =0;
+ int quantity = 0;
+ int total =0;
+
+printf("Product'Name: "); 
+fgets(product , sizeof(product),stdin);
+ product[strlen (product) -1] ='\0';
+
+printf("Price: ");
+scanf("%d",&price);
+
+printf("Quantity: ");
+scanf("%d", &quantity);
+
+total = price  *  quantity;
+
+printf("Total Cost: %d",total);
+
+ 
+  return 0;
+} 
