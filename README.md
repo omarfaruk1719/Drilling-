@@ -1,6 +1,6 @@
 # Drilling
 
-Learning C programming from scratch.
+Learning C programming from scratch. 
 
 ## What's Inside
 
