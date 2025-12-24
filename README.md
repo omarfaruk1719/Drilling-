@@ -7,6 +7,7 @@ Learning C programming from scratch.
 - `c-bill-generator.c` - Simple billing system
 - `product-cost-calculator` - Inventory cost calculator
 - `shopping_cost.c` - Shopping cart total calculator
+- `calculator.c` - Basic arithmetic calculator with operator support
 
 ## Progress
 
